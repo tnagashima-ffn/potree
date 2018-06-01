@@ -14,7 +14,10 @@
    id="svg3797"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="close.svg">
+   sodipodi:docname="point.svg"
+   inkscape:export-filename="D:\dev\workspaces\potree\develop\resources\icons\point.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs3799" />
   <sodipodi:namedview
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.395604"
-     inkscape:cx="9.4629706"
-     inkscape:cy="16.706715"
+     inkscape:zoom="15.836083"
+     inkscape:cx="4.7216612"
+     inkscape:cy="14.34516"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -57,14 +60,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 7,25 25,7"
-       id="path2986"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 7,7 25,25"
-       id="path2988"
-       inkscape:connector-curvature="0" />
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:2.52600002000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3807-4"
+       sodipodi:cx="11"
+       sodipodi:cy="22"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="M 17,22 A 6,6 0 1 1 5,22 6,6 0 1 1 17,22 z"
+       transform="matrix(0.91666667,0,0,0.91666667,5.8535197,-4.2877854)" />
   </g>
 </svg>
